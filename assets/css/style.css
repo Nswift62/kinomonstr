@@ -71,7 +71,11 @@ textarea .form-control {
     .header p {
         text-align: center;
     }
+
+
 }
+
+
 
 .clear {
     clear: both;
@@ -99,7 +103,12 @@ html, body {
 
 .films__lable {
     padding: 2%;
-    margin-bottom: 4%;
+    margin-bottom: 5%;
+    font-size: 13px;
+}
+
+h3 {
+    margin-top: 50px;
 }
 
 .margin-8 {
